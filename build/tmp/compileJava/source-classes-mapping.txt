@@ -1,0 +1,22 @@
+com/Professors.java
+ com.Professors
+com/ProfessorsRepository.java
+ com.ProfessorsRepository
+com/RegistrationRepository.java
+ com.RegistrationRepository
+com/SubjectsRepository.java
+ com.SubjectsRepository
+com/Application.java
+ com.Application
+ com.Application$WebSecurityConfig
+ com.Application$WebSecurityConfiguration
+com/UsersRepository.java
+ com.UsersRepository
+com/Subjects.java
+ com.Subjects
+com/Registration.java
+ com.Registration
+com/Controller.java
+ com.Controller
+com/Users.java
+ com.Users
